@@ -1,0 +1,26 @@
+{
+	"label": "VinylPlayer",
+	"tags": [
+		"webappOnly"
+	],
+	"requires": [
+		"vinylplayer"
+	],
+	"version": "0.11.1",
+	"requiredVersions": {
+		"server": ">=0.11.0",
+		"client": ">=0.11.0"
+	},
+	"description": "A simple UI alternative that shows a record player",
+	"author": "Riprod / Matthew",
+	"platforms": [
+		"windows",
+		"linux",
+		"mac"
+	],
+	"repository": "https://github.com/ItsRiprod/deskthing-apps",
+	"homepage": "https://deskthing.app",
+	"updateUrl": "https://github.com/ItsRiprod/deskthing-apps",
+	"id": "vinylplayer",
+	"template": "base"
+}
